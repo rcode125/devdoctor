@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0d1117;
+  color: #f0f6fc;
+}
+
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.check-card {
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.check-pass {
+  border-color: #238636;
+}
+
+.check-warning {
+  border-color: #d29922;
+}
+
+.check-fail {
+  border-color: #da3633;
+}
