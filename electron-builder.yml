@@ -1,0 +1,8 @@
+appId: com.devdoctor.app
+productName: DevDoctor
+files:
+  - apps/desktop/dist/**
+  - apps/desktop/src/main/**
+  - apps/desktop/src/preload/**
+directories:
+  output: release
